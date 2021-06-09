@@ -14,7 +14,7 @@
 * *Favotite Plugins:* ACF, WPML, Yoast SEO, Jetpack, Contact Form 7, W3 Total Cache, WP Rocket, WP-PageNavi, etc
 * *Editor:* Gutenberg, ACF with repeater (for legacy or non-complex projects)
 * *Bundlers:* Webpack
-* *Testing frameworks:* phpunit
+* *Testing framework:* phpunit
 
 #### Contacts
 * *Email:* [dimasmagadan@gmail.com](mailto:dimasmagadan+github@gmail.com)
