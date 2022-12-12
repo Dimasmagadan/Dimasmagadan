@@ -19,7 +19,7 @@
 #### Contacts
 * *Email:* [dimasmagadan@gmail.com](mailto:dimasmagadan+github@gmail.com)
 * *Telegram:* [@dimasmagadan](https://t.me/dimasmagadan)
-* *linkedIn:* [dimasmagadan](https://www.linkedin.com/in/ddyakonov/)
+* *linkedIn:* [dima](https://www.linkedin.com/in/senior-wordpress-developer-dima/)
 * *Skype:* dimasmagadan
 
 You can also find me on https://gitlab.com/dimasmagadan
