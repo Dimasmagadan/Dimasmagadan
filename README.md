@@ -13,6 +13,7 @@ In terms of my WordPress stack, I am experienced with a variety of popular plugi
 
 #### Contacts
 If you're in need of a professional WordPress developer, or a skilled WordPress freelancer, please don't hesitate to contact me
+* *Schedule a call:* [check available time slots](https://zcal.co/dimasmagadan)
 * *Email:* [dimasmagadan@gmail.com](mailto:dimasmagadan+github@gmail.com)
 * *Telegram:* [@dimasmagadan](https://t.me/dimasmagadan)
 * *linkedIn:* [dima](https://www.linkedin.com/in/senior-wordpress-developer-dima/)
